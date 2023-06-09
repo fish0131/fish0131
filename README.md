@@ -1,5 +1,5 @@
 **Hi👋, I'm a CSIE master student and is passionate about machine learning and deep learning.**  
-*Currently working on speech style transfer and EEG emotion recognition.*
+*Currently working on speech style transfer and EEG emotion recognition.*  
 *Occasionally learning front-end and back-end technologies.*
 
 <!--
