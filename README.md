@@ -2,6 +2,7 @@
   <b>Hi👋, I'm a CSIE master student and is passionate about machine learning and deep learning.</b>  </br>
   <em>Currently working on speech style transfer and EEG emotion recognition.</em>  </br>
   <em>Occasionally learning front-end and back-end technologies.</em>
+  📫 How to reach me: cindy070731@gmail.com
 </p>
 
 <!--
