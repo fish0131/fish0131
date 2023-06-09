@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi👋, I'm a CSE master student and is passionate about Machine Learning and Deep Learning
+
 
 <!--
 **fish0131/fish0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
