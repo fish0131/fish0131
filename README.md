@@ -1,4 +1,4 @@
-**Hi👋, I'm a CSE master student and is passionate about Machine Learning and Deep Learning**
+**Hi👋, I'm a CSE master student and is passionate about Machine Learning and Deep Learning**  
 *I’m currently working on speech style transfer and EEG emotion recognition*
 
 
