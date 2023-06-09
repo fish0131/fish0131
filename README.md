@@ -1,5 +1,9 @@
 **Hi👋, I'm a CSE master student and is passionate about Machine Learning and Deep Learning**
 
+Currently trying to work on ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)  
+Language  
+1. For ML/DL: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+2. For Front end: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!--
 **fish0131/fish0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
