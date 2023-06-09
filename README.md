@@ -1,8 +1,8 @@
 <p align="center">
-  **Hi👋, I'm a CSIE master student and is passionate about machine learning and deep learning.**  
-  *Currently working on speech style transfer and EEG emotion recognition.*  
-  *Occasionally learning front-end and back-end technologies.*
-<>
+  <b>Hi👋, I'm a CSIE master student and is passionate about machine learning and deep learning.<b>  </br>
+  <em>Currently working on speech style transfer and EEG emotion recognition.</em>  </br>
+  <em>Occasionally learning front-end and back-end technologies.</em>
+</p>
 
 <!--
 **fish0131/fish0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
