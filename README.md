@@ -1,4 +1,4 @@
-**Hi👋我叫許瑋芸, I'm a CSE master student and is passionate about machine learning and deep learning.**  
+**Hi👋, I'm a CSE master student and is passionate about machine learning and deep learning.**  
 *I’m currently working on speech style transfer and EEG emotion recognition.*
 
 
